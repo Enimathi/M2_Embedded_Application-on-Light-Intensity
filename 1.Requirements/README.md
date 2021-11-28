@@ -46,3 +46,21 @@
 > ### **Threats**
 
 **Faking fingerprints — doable, but hard. Researchers found a way to create fake fingerprints to fool many devices, although it took a lot of effort. For years, the security of fingerprint-based authorization has been a topic of fierce debate.**
+
+> # **4W's and 1H**
+
+> ### **Who**
+
+
+
+> ### **When**
+
+
+
+> ### **What**
+
+
+> ### **Where**
+
+
+> ### **How**
