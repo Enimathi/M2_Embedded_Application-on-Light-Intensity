@@ -51,25 +51,49 @@
 
 > ### **Who**
 
-** **
+**Fingerprint-based security system” project can be used by the employees, staff or workers in various industries like Automobile industries, manufacturing industries, Software development companies.**
 
 
 > ### **When**
 
-** **
+**Fingerprint security system can be used for the initialization of the event, for the entry in the class, for the intime of an employee,.etc**
 
 > ### **What**
-
-** **
+**Fingerprint recognition allows a person to be verified or identified through the analysis and comparison of his or her finger dermal ridges. Fingerprint recognition was one of the first techniques used for automatically identifying people and today is still one of the most popular and effective biometric techniques.**
 
 > ### **Where**
 
-** **
+**Fingerprint scanners are security systems of biometrics. They are used in police stations, security industries, smartphones, and other mobile devices.**
 
 > ### **How**
 
 
-** **
+**A fingerprint is formed when a finger makes contact with a surface. The finger leaves behind traces of sweat and any other substances present on the finger that a suspect might have touched. These substances are deposited in the characteristic pattern of the ridges present on the finger tip of the donor.**
 
 
+> # **High level Requirements**
+
+•**Atmega32**
+
+•**Fingerprint module**
+
+•**Power 12v adaptor**
+
+> # **Low level Requirements**
+
+•**Push Button** 
+
+•**LEDs** 
+
+•**Resistor**
+
+•**Connecting wires**
+
+•**16x2 LCD**
+
+•**PCB or Bread Board**
+
+•**capacitor**
+
+•**Transistor**
 
