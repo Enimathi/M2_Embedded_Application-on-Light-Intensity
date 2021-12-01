@@ -1,4 +1,8 @@
-#include "Intensity.h"
+#include <avr/io.h>
+#define F_CPU 1000000      
+#include <util/delay.h>
+#define    E   5
+#define    RS   6
 
   void send_a_command(unsigned char command)
 
@@ -50,5 +54,4 @@
 
 }
 
-    return(INTESITY);
-}
+    
