@@ -1,3 +1,13 @@
+/**
+ * @file main.c
+ * @author Eniya M ()
+ * @brief Project for application of light intensity
+ * @version 0.1
+ * @date 2021-12-01
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #include <avr/io.h>
 #define F_CPU 1000000      
 #include <util/delay.h>
