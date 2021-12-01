@@ -2,12 +2,12 @@
 
 > # **Introduction**
 
- **Fingerprint matching has been successfully used by law enforcement for more than a century. The technology is now finding lot of other applications such as identity management and access control. In this context, an automated fingerprint recognition system and identification of key challenges are described along with the research opportunities. The description is like a product design in this report implementing RTOS (Real time operating system) under the domain of embedded system. Fingerprint Recognition is a widely popular but a complex pattern recognition problem. It is very difficult to design accurate algorithms capable of extracting salient features and matching them in a robust way. In this paper, we have come with a novel approach to simplify the existing problems with a proper Embedded System Design**
+ **Lighting is a factor to get a safe and comfortable environment.Good lighting allows one to see objects that are done clearly, and can give arefreshing view.Conversely, if the room has poor lighting can cause eye fatigue, therefore it is necessary to control the intensity of light-based microcontroller to regulate the lighting of a room automatically. this research was made by designing a lighting model using a dimmer circuit based onATMega328 microcontroller, LDR sensor (Light Dependent Resistor) and Bluetooth HC-06.**
 
 
 > # **Research**
 
-**The systems employed at these places must be fast enough and robust too. Authors design a simple fingerprint recognition system using At mega 328p as core controller. The system uses R305 fingerprint scanner to capture fingerprints. This system can be employed at any application with enhanced security because of the uniqueness of fingerprints. It is convenient due to its low power requirement and portability.**
+**In this we are going to interface LDR with ATMEGA8 microcontroller, and with this we can measure LIGHT INTENSITY in the area. In ATMEGA8, we are going to use 10bit ADC (Analog to Digital Conversion) feature to measure the light intensity.**
 
 > # **Features**
 
