@@ -23,75 +23,58 @@
 
 > ### **Strengths**
 
-•	**It is highly accurate.**
+•	**Light sensors need small voltage and power for its operation.**
 
-•	**It is unique and can never be the same for two persons.**
-
-•	**It is the most economical technique.**
-
-•	**It is easy to use.**
-
-•**Use of small storage space.**
-
+•	**Lower in cost, bi-directional and offer moderate response time.**
 
 
 > ### **Weakness**
 
-**The primary disadvantage of DNA fingerprinting is that it is not 100% accurate. Contamination, falsification, and chain of custody concerns still exist with this technology. Even improper testing methods may create false positive or false negative results.**
+**The bad part of this technique is that these simple and amateur-level devices can only measure relative intensity of light and are unable to provide measurements on an absolute scale.**
 
 > ### **Opportunities**
 
-**Just as physical locks have master keys that can unlock anything, fingerprint scanners have what are called "master prints." These are custom-made fingerprints that contain all the standard features found on everyone's fingers. Hackers can use master prints to get into devices that use sub-par scanning techniques.**
+**Optimisation of  LDR will increase its oppurtunity.**
 
 > ### **Threats**
 
-**Faking fingerprints — doable, but hard. Researchers found a way to create fake fingerprints to fool many devices, although it took a lot of effort. For years, the security of fingerprint-based authorization has been a topic of fierce debate.**
+**variation of  value of the resistance has a certain delay.**
 
 > # **4W's and 1H**
 
 > ### **Who**
 
-**Fingerprint-based security system” project can be used by the employees, staff or workers in various industries like Automobile industries, manufacturing industries, Software development companies.**
+**Used for common people to know about the intensity of light**
 
 
 > ### **When**
 
-**Fingerprint security system can be used for the initialization of the event, for the entry in the class, for the intime of an employee,.etc**
+**Indicates the intensity of light**
 
 > ### **What**
-**Fingerprint recognition allows a person to be verified or identified through the analysis and comparison of his or her finger dermal ridges. Fingerprint recognition was one of the first techniques used for automatically identifying people and today is still one of the most popular and effective biometric techniques.**
+**Measures the intensity**
 
 > ### **Where**
 
-**Fingerprint scanners are security systems of biometrics. They are used in police stations, security industries, smartphones, and other mobile devices.**
+**In all common places where people are in need of light intensity .**
 
 > ### **How**
 
 
-**A fingerprint is formed when a finger makes contact with a surface. The finger leaves behind traces of sweat and any other substances present on the finger that a suspect might have touched. These substances are deposited in the characteristic pattern of the ridges present on the finger tip of the donor.**
+• **Used at the staircase in order to indicate and make light glow when person enters.**
+• **Placed at entrance of malls etc..,in order to sense and open the doors.**
 
 
 > # **High level Requirements**
 
-•**Atmega32**
+•**Interfacing LDR with ATmega328**
 
-•**Fingerprint module**
+•**Measure the light intensity in a particular area**
 
-•**Power 12v adaptor**
 
 > # **Low level Requirements**
 
-•**Push Button** 
-
-•**LEDs** 
-
-•**Resistor**
-
-•**Connecting wires**
-
-•**16x2 LCD**
-
-•**PCB or Bread Board**
+•**LDR should change its resistance when light fall on its surface.** 
 
 •**capacitor**
 
