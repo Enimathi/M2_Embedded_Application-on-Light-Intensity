@@ -1,1 +1,1 @@
-# M2_Embedded_Light Intensity Measurement Using LDR and Atmega328
+# M2_Embedded_Light Intensity Measurement using LDR and Atmega328
