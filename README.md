@@ -1,1 +1,1 @@
-# M2_Embedded_Fingerprint-based-security-system
+# M2_Embedded_Light Intensity Measurement Using LDR and Atmega328
