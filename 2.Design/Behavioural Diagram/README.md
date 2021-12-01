@@ -1,2 +1,2 @@
 # Behavioural Representation
-![Behavioural](https://user-images.githubusercontent.com/89912900/143774054-2072e141-755f-40f3-ae51-61fce34db040.jpg)
+![Behavioural dia](https://user-images.githubusercontent.com/89912900/144205631-5d60dba5-cd22-4a7d-9a75-36c6b35c0567.jpg)
